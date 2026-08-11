@@ -49,17 +49,11 @@
 
 ### ⚙️ Featured Work
 * 🖥️ **Tuff HUD** – Clean & feature-packed FiveM HUD
-* ⚡ **Lightning Scripts** – High-end FiveM scripts & UIs (In Progress)
 
 ---
 
 ### 📫 Connect With Me
 
-- 💬 **Discord:** `Kovax`
-- 🛒 **Store:** *Lightning Scripts (Coming Soon)*
+- 💬 **Discord:** `Kovax.dev`
 
 <br />
-
-<div align="center">
-  <sub>Designed with ❤️ by Kovax</sub>
-</div>
