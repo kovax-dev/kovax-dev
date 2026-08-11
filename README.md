@@ -40,9 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kovax-dev&theme=dark&hide_border=true" alt="Kovax Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovax-dev&theme=zenburn" alt="Kovax Summary" />
 </p>
 
