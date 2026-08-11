@@ -11,8 +11,6 @@
 
 ### 👨‍💻 About Me
 
-- ⚡ **Currently working on:** Next-generation resources at **Lightning Scripts**
-- 🚀 **Projects:** Creator of **Tuff HUD** (Advanced FiveM HUD)
 - 🛠️ **Focus:** High-performance Lua backends & modern TypeScript/NUI frontends
 - 🎧 **Coding style:** Late-night 10-hour hyperfocus sessions with music 🎧
 - 🎯 **Goal:** Delivering clean, unencrypted, highly optimized code and UIs
