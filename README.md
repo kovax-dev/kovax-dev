@@ -16,9 +16,13 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+<div align="center">
 
-#### **Languages & Frontend**
+<h3>🧰 Tech Stack & Tools</h3>
+
+<br />
+
+<h4>Languages & Frontend</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
@@ -28,7 +32,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### **Development Tools**
+<br />
+
+<h4>Development Tools</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -36,6 +42,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FiveM-FF4500?style=for-the-badge&logo=fivem&logoColor=white" alt="FiveM" />
 </p>
+
+</div>
 
 ---
 
