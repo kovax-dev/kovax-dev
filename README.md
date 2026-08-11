@@ -2,7 +2,7 @@
 
   # ⚡ Hi, I'm Kovax
 
-  ### **FiveM Developer & Founder of Lightning Scripts**
+  ### **FiveM Developer**
   *Building high-performance, optimized, and clean resources & UIs for FiveM.*
 
   ---
