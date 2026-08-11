@@ -38,12 +38,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kovax-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kovax Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovax-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kovax-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kovax Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovax-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
