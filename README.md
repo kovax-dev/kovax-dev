@@ -60,8 +60,6 @@
 ⏸️ **tuff-pausemenu** – Custom & modern FiveM Pause Menu  
 📊 **tuff-scoreboard** – Clean & optimized FiveM Scoreboard  
 ⏳ **tuff-loading** – Minimalist & aesthetic FiveM Loading Screen  
-🎁 **Free FiveM Scripts** – Open-source & free community resources  
-⚡ **Lightning Scripts** – Upcoming premium scripts & custom UIs  
 
 ---
 
