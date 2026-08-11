@@ -62,5 +62,3 @@
 ### 📫 Connect With Me
 
 - 💬 **Discord:** `Kovax.dev`
-
-<br />
