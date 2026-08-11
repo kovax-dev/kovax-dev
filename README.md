@@ -20,7 +20,6 @@
 
 <h3>🧰 Tech Stack & Tools</h3>
 
-<br />
 
 <h4>Languages & Frontend</h4>
 
@@ -32,7 +31,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<br />
 
 <h4>Development Tools</h4>
 
