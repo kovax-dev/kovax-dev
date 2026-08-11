@@ -56,10 +56,10 @@
 
 ### ⚙️ Featured Work & Projects
 
-🖥️ **Tuff HUD** – Advanced, clean & feature-packed FiveM HUD  
-⏸️ **tuff-pausemenu** – Custom & modern FiveM Pause Menu  
-📊 **tuff-scoreboard** – Clean & optimized FiveM Scoreboard  
-⏳ **tuff-loading** – Minimalist & aesthetic FiveM Loading Screen  
+**Tuff HUD** – Advanced, clean & feature-packed FiveM HUD  
+**tuff-pausemenu** – Custom & modern FiveM Pause Menu  
+**tuff-scoreboard** – Clean & optimized FiveM Scoreboard  
+**tuff-loading** – Minimalist & aesthetic FiveM Loading Screen  
 
 ---
 
