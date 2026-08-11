@@ -39,10 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kovax-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kovax Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kovax-dev&theme=dark&hide_border=true" alt="Kovax Streak Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kovax-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kovax-dev&theme=zenburn" alt="Kovax Summary" />
 </p>
 
 ---
